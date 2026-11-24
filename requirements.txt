@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+openai
+python-dotenv
+sentence-transformers
+numpy
+google-cloud-firestore
+google-generativeai==0.3.1
+tensorflow==2.14.0
+tensorflow-hub==0.15.0
+opencv-python-headless==4.8.1.78
+scipy==1.11.3
+requests==2.31.0
